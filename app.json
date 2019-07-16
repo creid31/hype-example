@@ -1,0 +1,9 @@
+{
+  "name": "Hype Survey with Heroku",
+  "description": "A barebones Python app, which can easily be deployed to Heroku and include tests.",
+  "image": "heroku/python",
+  "repository": "https://github.com/creid31/hype-example",
+  "keywords": [
+    "python"
+  ]
+}
